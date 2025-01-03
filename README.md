@@ -2,7 +2,7 @@
 
 ## Credits
 [howbazaar.gg](https://www.howbazaar.gg/) for all the data  
-original mod here -> https://github.com/nwk6661/Bazaar-SCED
+original mod here -> [Bazaar-SCED](https://github.com/Infarcactus/Mod-The-Bazaar-Show-Combat-Encounter-Detail )
 
 this is a mod of that original mod that adds item upgrade/enchant preview when right-clicking items
 
