@@ -15,7 +15,7 @@ this is a mod of that original mod that adds item upgrade/enchant preview when r
 run yer Tempo Launcher -> at the bottom left theres Settings, click it -> look for  "Game Installation Directory", copy the directory to yer file explorer -> there should be a folder named "bazaarwinprodlatest" open it -> extract the BepInEx zipfile there
 
 ### step 2
-download the mod [here](https://github.com/CambaCambaCambaCambaCambaCamba/Bazaar-SCED-with-item/releases/download/v1/ShowCombatEncounterDetail.zip)
+download the lastes mod [here](https://github.com/CambaCambaCambaCambaCambaCamba/Bazaar-SCED-with-item/releases)
 
 extract it to `bazaarwinprodlatest\BepInEx\plugins`
 
