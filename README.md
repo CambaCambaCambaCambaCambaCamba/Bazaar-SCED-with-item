@@ -8,6 +8,8 @@ original Infarcactus mod here ->[Mod-The-Bazaar-Show-Combat-Encounter-Detail](ht
 
 this is a mod of that original mod that adds item upgrade/enchant preview when right-clicking items
 
+![sample](ex1.png)
+
 ## how to install:
   
  ### step 1 (skip this if ye already have BepInEx installed) 
